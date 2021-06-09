@@ -1,0 +1,35 @@
+lugares donde podremos ver donde aplique SEO.
+
+1) LENGUAJE CORRECRTO
+<html lang="es"> (gracias a esa etiqueta podemos identificar el idioma de la pagina web, importante para una persona que esta buscando datos en español)
+
+2) TITTLE - contiene entre 35 y 65 caracteres.
+
+3) METADATOS= para ver la descripcion en el buscador. 
+<meta name="descripcion" content="Entrenamiento personal basado en tus objetivos. Seguimiento individualizado para lograr cumplir lo que te propongas. Planes a tu medida.">)
+contiene entre 70 y 320 caracteres.
+
+4) PALABRAS CLAVES O KEYWORDS:
+<meta name="palabras clave" content="" entrenamiento, personalizado, entrenador, personal, fisico, deporte, acrobacia, Ivan Martres">)
+
+5) GERARQUIA DE ENCABEZADOS - corregida ( solo un h1 por archivo - h2, h3... organizados en orden.)
+
+6) poner la descripcion en todas las etiquetras (ALT) - agregado.
+
+7) Cantidad de enlaces (internos y externos) similares y completos.
+
+8) Utilizar videos (mantiene al usuario en tu web)
+
+9) comprimir fotos y videos para que pesen menos. - agregado.
+
+10) faltas de ortografia corregidas.
+
+11) Modificado el formado de los archivos.
+
+12) OPEN GRAPH agregado. Cuando comparto mi sitio por cualquier red social, puedo elegir a travez de este protocolo, que titulo, imagen, descripcion, etc va a tener.
+
+
+
+
+
+
